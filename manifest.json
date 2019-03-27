@@ -7,6 +7,41 @@
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
+	{
+      "src": "icon1.jpg",
+      "sizes": "120x120",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon2.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon3.jpg",
+      "sizes": "152x152",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon4.jpg",
+      "sizes": "167x167",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon5.jpg",
+      "sizes": "180x180",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon6.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "icon7.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
